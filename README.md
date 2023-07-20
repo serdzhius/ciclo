@@ -1,3 +1,3 @@
-# [Ciclo](https://github.com/serdzhius/ciclo)
+# [Ciclo](https://serdzhius.github.io/ciclo/)
 ## Интересный сайт с постраничным скролом, анимацией текстовых блоков и counter 
-[ciclo](https://github.com/serdzhius/ciclo)
+[ciclo](https://serdzhius.github.io/ciclo/)
